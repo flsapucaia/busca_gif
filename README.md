@@ -1,4 +1,5 @@
 # busca_gif
+Buscaddor de gif's usando a API do GIPHY
 
 Quinto aplicativo do curso de Flutter da Udemy.
 
